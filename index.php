@@ -149,7 +149,7 @@ button:hover {
 
         const canvas = document.getElementById('outputCanvas');
         const ctx = canvas.getContext('2d');
-        const overlayImageSrc = 'clinic.png';
+        const overlayImageSrc = 'CLINIC.png';
 
         // --- Define desired final dimensions for the base image on the canvas ---
         const finalBaseWidth = 2080;
